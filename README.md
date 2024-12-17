@@ -5,6 +5,7 @@
     <p>Meu foco profissional é direcionar minha carreira para a área de desenvolvimento de dApps, contratos inteligentes e Cybersecurity.</p>
     <div style="display: flex; flex-direction: column">
       <a href="https://github.com/DDR23?tab=repositories">🗃️ - repositorios</a>
+      •
       <a href="https://www.linkedin.com/in/ddr23/">🌐 - linkedin</a>
     </div>
   </div>
