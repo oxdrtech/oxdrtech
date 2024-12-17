@@ -1,6 +1,5 @@
 <h2>Oi, eu me chamo André Campos! 🙋‍♂️</h2>
 <div style="display: flex; justify-content: space-between; align-items: center" >
-  
   <div style="width: 50vw;">
     <p>Tenho formação em Desenvolvimento de Aplicações Web Fullstack pela Escola DNC e atuo na área há 2 anos, frequentemente utilizando ferramentas como React, Node, Next, Mantine Dev, GSAP, Nest, bancos SQL e NoSQL, Prisma, Docker, WebSocket, Web Scraping, Jest, Playwright, Git e outras.</p>
     <p>Meu foco profissional é direcionar minha carreira para a área de desenvolvimento de dApps, contratos inteligentes e Cybersecurity.</p>
@@ -9,11 +8,6 @@
       <a href="https://www.linkedin.com/in/ddr23/">🌐 - linkedin</a>
     </div>
   </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ddr23&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
-  </div>
-
 </div>
 
 ##
