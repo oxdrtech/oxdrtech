@@ -1,6 +1,6 @@
 <h2>Oi, eu me chamo André Campos! 🙋‍♂️</h2>
 <div>
-  <p>Tenho formação em Desenvolvimento de Aplicações Web Fullstack pela Escola DNC e atuo na área há 2 anos, frequentemente utilizando ferramentas como React, Node, Next, Mantine Dev, GSAP, Nest, bancos SQL e NoSQL, Prisma, Docker, WebSocket, Web Scraping, Jest, Git e outras.</p>
+  <p>Tenho formação em Desenvolvimento de Aplicações Web Fullstack pela Escola DNC e atuo na área há 2 anos, frequentemente utilizando ferramentas como React, Node, Next, Mantine Dev, Nest, bancos SQL e NoSQL, Prisma, Docker, WebSocket, Web Scraping, Jest, Git e outras.</p>
   <p>Meu foco profissional é direcionar minha carreira para a área de desenvolvimento de dApps, contratos inteligentes e Cybersecurity.</p>
   <a href="https://github.com/DDR23?tab=repositories">🗃️ - Repositórios</a>
   •
