@@ -2,11 +2,11 @@
 <div>
   <p>Tenho formação em Desenvolvimento de Aplicações Web Fullstack pela Escola DNC e atuo na área há 2 anos, frequentemente utilizando ferramentas como Next.js, Mantine-UI, Nest.js, bancos SQL e NoSQL, Prisma, Docker, WebSocket, Web Scraping, Jest, Git e outras.</p>
   <p>Meu foco profissional é direcionar minha carreira para a área de desenvolvimento de dApps, contratos inteligentes e Cybersecurity.</p>
-  <a href="https://github.com/oxdrtech?tab=repositories">🗃️ - Repositórios</a>
+  <a href="https://oxdr.tech/">🌐 - Site</a>
   •
   <a href="https://www.linkedin.com/in/oxdrtech/">💼 - Linkedin</a>
   •
-  <a href="https://oxdr.tech/">🌐 - Site</a>
+  <a href="https://github.com/oxdrtech?tab=repositories">🗃️ - Repositórios</a>
 </div>
 
 ##
